@@ -3,7 +3,7 @@ This was a previous work I did at NAVER. The motivation for this project is to *
 
 ## Architecture
 The archicture is as below:
-![](pic/architecture.png)
+![](pics/architecture.png)
 
 
 ## TODO
